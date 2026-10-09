@@ -1,0 +1,3 @@
+# This app uses only Python's standard library on Windows.
+# Optional non-Windows interface discovery fallback:
+# psutil>=5.9
